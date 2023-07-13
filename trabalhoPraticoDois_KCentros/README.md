@@ -1,4 +1,5 @@
 # Trabalho Prático II
+Grupo: Fernanda Mendes e Pedro Olyntho
 
 ### Objetivo: 
 Desenvolver um método aproximado e um de força bruta que encontra um conjunto de k vértices (chamados centros) que minimiza a maior distância de
