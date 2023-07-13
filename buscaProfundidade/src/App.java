@@ -42,10 +42,9 @@ public class App {
         }
         // BUSCA EM PROFUNDIDADE
         System.out.println("------------------");
-        Busca busca = new Busca();
-        busca.inicializacaoBuscaprofundidade(lista, numVertice);
+        BuscaRecur buscaR = new BuscaRecur();
+        buscaR.inicializacaoBuscaprofundidade(lista, numVertice);
         System.out.println("------------------");
-
         // fim
         sc.close();
     }
